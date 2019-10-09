@@ -1,0 +1,74 @@
+
+
+.foto1 {
+
+
+background-color: lightblue;
+background-image: url(https://mahzedahrbakery.com/assets/ecom/product/image/2016/02/25/HeavenInABox-c.jpg);
+background-position: bottom center;
+background-size: cover;
+background-repeat: no-repeat;
+width: 400px;
+height: 400px;
+position: relative;
+display: inline-block;
+
+}
+.foto2 {
+
+background-color: lightblue;
+background-image: url(https://mahzedahrbakery.com/assets/product/image/2017/08/24/EmptyName-254_1000x950.jpg);
+background-position: bottom center;
+background-size: cover;
+background-repeat: no-repeat;
+width: 400px;
+height: 400px;
+position: relative;
+display: inline-block;
+
+}
+.foto3 {
+
+background-color: lightblue;
+background-image: url(https://mahzedahrbakery.com/assets/product/image/2018/11/07/product_choux-c.jpg);
+background-position: bottom center;
+background-size: cover;
+background-repeat: no-repeat;
+width: 400px;
+height: 400px;
+position: relative;
+display: inline-block;
+
+}
+
+
+.sconto {
+
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    color: white;
+    background-color: black;
+    left: 300px;
+    top: 20px;
+    font-size: 25px;
+    text-align: center;
+    border-width: 5px;
+
+
+}
+
+.cuore {
+position: absolute;
+left: 200px;
+top: 200px;
+font-size: 100px;
+
+}
+
+
+.cuore:hover {
+
+color: red;
+
+}
